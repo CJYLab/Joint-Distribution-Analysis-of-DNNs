@@ -2,6 +2,8 @@
 the architectuer of the network should be checked in the following time.
 
 
+
+2018-07-16
 analysis of normal distribution
 
 memorization: remembering the difference from other samples
