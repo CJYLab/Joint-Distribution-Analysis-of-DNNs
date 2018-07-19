@@ -23,7 +23,7 @@ data augmentation
 
 这个需要找一个有明确分布的数据集，比如一个uniform分布  在被“正态”移动之后，他的分布是不是被破坏了
 
-### 2017-07-18
+### 2018-07-18
 
 ordinary encoding of labels rather than one-hot encoding,
 
@@ -38,3 +38,10 @@ we use techniques from `data augmentation`, while we don't generate new samples(
 mathematical explaination(proof).
 
 goal: break distribution of inputs while protect patterns.
+
+### 2018-07-19
+
+finished:
+TensorFlow with CUDA support on windows 10.
+Intellij Idea Develop environment configuration.
+
