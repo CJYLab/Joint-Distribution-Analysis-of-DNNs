@@ -55,3 +55,17 @@ test tflearn first time failed.
 works with tensorflow example
 
 differentiating between test error and validation error.
+
+**EX1**
+
+Given the following property of conditional probability:
+
+Additional formula for conditional probabilities:
+
+P(A∪B|X) = P(A|X) + P(B|X) when A and B are disjoint event.
+
+If we split the A into A1 and A2 randomly, A1 and A2 are not disjoint event. From human’s aspect of view, A1 and A2 are same event.
+
+P(A1∪A2|X) = P(A1|X) + P(A2|X) when A and B are not disjoint event.
+
+We want to test will the network fit and their confidence on unseen data.
