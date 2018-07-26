@@ -42,6 +42,16 @@ goal: break distribution of inputs while protect patterns.
 ### 2018-07-19
 
 finished:
+
 TensorFlow with CUDA support on windows 10.
+
 Intellij Idea Develop environment configuration.
 
+
+### 2018-07-26
+
+test tflearn first time failed.
+
+works with tensorflow example
+
+differentiating between test error and validation error.
