@@ -69,3 +69,13 @@ If we split the A into A1 and A2 randomly, A1 and A2 are not disjoint event. Fro
 P(A1∪A2|X) = P(A1|X) + P(A2|X) when A and B are not disjoint event.
 
 We want to test will the network fit and their confidence on unseen data.
+
+
+
+### 7-30
+
+given two distributions 
+
+say normal distribution and polynomial distribution
+
+when we do MLE, what we get based on statistical procedures?
